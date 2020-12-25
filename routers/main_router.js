@@ -1,6 +1,6 @@
 let express = require('express');
 let router = express.Router();
-let Fisheep = require('./BellaTsou.js');
+let BellaTsou = require('./BellaTsou.js');
 let Alice = require('./Alice.js');
 let Bob = require('./Bob.js');
 router.get('/', (req, res) => {
