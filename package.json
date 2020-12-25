@@ -1,0 +1,23 @@
+{
+  "name": "BellaTsou_FinalProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BellaTsou/FinalProject2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BellaTsou/FinalProject2/issues"
+  },
+  "homepage": "https://github.com/BellaTsou/FinalProject2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
